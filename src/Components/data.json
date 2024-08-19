@@ -1,0 +1,301 @@
+{
+  "SportsEvents": [
+    {
+      "id": 1,
+      "location": "Stadium A",
+      "title": "100m Sprint",
+      "desc": "Individual sprint race over 100 meters.",
+      "time": "10:00 AM",
+      "date": "2024-10-18",
+      "mainHeading": "Track and Field"
+    },
+    {
+      "id": 2,
+      "location": "Stadium A",
+      "title": "200m Sprint",
+      "desc": "Individual sprint race over 200 meters.",
+      "time": "11:00 AM",
+      "date": "2024-10-18",
+      "mainHeading": "Track and Field"
+    },
+    {
+      "id": 3,
+      "location": "Stadium A",
+      "title": "400m Sprint",
+      "desc": "Individual sprint race over 400 meters.",
+      "time": "12:00 PM",
+      "date": "2024-10-18",
+      "mainHeading": "Track and Field"
+    },
+    {
+      "id": 4,
+      "location": "Stadium A",
+      "title": "800m Race",
+      "desc": "Middle-distance race over 800 meters.",
+      "time": "1:00 PM",
+      "date": "2024-10-19",
+      "mainHeading": "Track and Field"
+    },
+    {
+      "id": 5,
+      "location": "Stadium A",
+      "title": "1500m Race",
+      "desc": "Long-distance race over 1500 meters.",
+      "time": "2:00 PM",
+      "date": "2024-10-19",
+      "mainHeading": "Track and Field"
+    },
+    {
+      "id": 6,
+      "location": "Stadium B",
+      "title": "4x100m Relay",
+      "desc": "Team relay race with 4 members each running 100 meters.",
+      "time": "3:00 PM",
+      "date": "2024-10-20",
+      "mainHeading": "Track and Field"
+    },
+    {
+      "id": 7,
+      "location": "Stadium B",
+      "title": "4x400m Relay",
+      "desc": "Team relay race with 4 members each running 400 meters.",
+      "time": "4:00 PM",
+      "date": "2024-10-20",
+      "mainHeading": "Track and Field"
+    },
+    {
+      "id": 8,
+      "location": "Field A",
+      "title": "Long Jump",
+      "desc": "Individual event where athletes jump as far as possible from a takeoff board.",
+      "time": "10:00 AM",
+      "date": "2024-10-18",
+      "mainHeading": "Track and Field"
+    },
+    {
+      "id": 9,
+      "location": "Field A",
+      "title": "High Jump",
+      "desc": "Individual event where athletes jump over a bar set at varying heights.",
+      "time": "11:00 AM",
+      "date": "2024-10-18",
+      "mainHeading": "Track and Field"
+    },
+    {
+      "id": 10,
+      "location": "Field B",
+      "title": "Pole Vault",
+      "desc": "Individual event where athletes use a pole to vault over a bar.",
+      "time": "12:00 PM",
+      "date": "2024-10-19",
+      "mainHeading": "Track and Field"
+    },
+    {
+      "id": 11,
+      "location": "Field B",
+      "title": "Shot Put",
+      "desc": "Individual event where athletes throw a heavy spherical object as far as possible.",
+      "time": "1:00 PM",
+      "date": "2024-10-19",
+      "mainHeading": "Track and Field"
+    },
+    {
+      "id": 12,
+      "location": "Field C",
+      "title": "Discus Throw",
+      "desc": "Individual event where athletes throw a heavy disc as far as possible.",
+      "time": "2:00 PM",
+      "date": "2024-10-20",
+      "mainHeading": "Track and Field"
+    },
+    {
+      "id": 13,
+      "location": "Field C",
+      "title": "Javelin Throw",
+      "desc": "Individual event where athletes throw a spear-like object as far as possible.",
+      "time": "3:00 PM",
+      "date": "2024-10-20",
+      "mainHeading": "Track and Field"
+    },
+    {
+      "id": 14,
+      "location": "Field D",
+      "title": "Hammer Throw",
+      "desc": "Individual event where athletes throw a heavy weight attached to a wire.",
+      "time": "4:00 PM",
+      "date": "2024-10-20",
+      "mainHeading": "Track and Field"
+    },
+    {
+      "id": 15,
+      "location": "Ground 1",
+      "title": "Cricket",
+      "desc": "Team sport with two teams taking turns to bat and bowl.",
+      "time": "9:00 AM",
+      "date": "2024-10-18",
+      "mainHeading": "Team Sports"
+    },
+    {
+      "id": 16,
+      "location": "Ground 2",
+      "title": "Football",
+      "desc": "Team sport with two teams trying to score goals by getting a ball into the opposing team’s goal.",
+      "time": "11:00 AM",
+      "date": "2024-10-18",
+      "mainHeading": "Team Sports"
+    },
+    {
+      "id": 17,
+      "location": "Ground 3",
+      "title": "Basketball",
+      "desc": "Team sport with two teams trying to score points by shooting a ball through the opponent's hoop.",
+      "time": "1:00 PM",
+      "date": "2024-10-19",
+      "mainHeading": "Team Sports"
+    },
+    {
+      "id": 18,
+      "location": "Ground 4",
+      "title": "Volleyball",
+      "desc": "Team sport with two teams hitting a ball over a net, trying to make it land in the opponent's court.",
+      "time": "3:00 PM",
+      "date": "2024-10-19",
+      "mainHeading": "Team Sports"
+    },
+    {
+      "id": 19,
+      "location": "Ground 4",
+      "title": "Volleyball",
+      "desc": "Team sport with two teams hitting a ball over a net, trying to make it land in the opponent's court.",
+      "time": "3:00 PM",
+      "date": "2024-10-20",
+      "mainHeading": "Field Events"
+    },
+    {
+      "id": 20,
+      "location": "Field A",
+      "title": "Soccer",
+      "desc": "A team sport played between two teams of eleven players each, aiming to score by getting a ball into the opposing team's goal.",
+      "time": "5:00 PM",
+      "date": "2024-10-20",
+      "mainHeading": "Field Events"
+    },
+    {
+      "id": 21,
+      "location": "Field B",
+      "title": "Cricket",
+      "desc": "A bat-and-ball game where two teams of eleven players alternate between batting to score runs and fielding to dismiss the batsmen.",
+      "time": "2:00 PM",
+      "date": "2024-10-18",
+      "mainHeading": "Field Events"
+    },
+    {
+      "id": 22,
+      "location": "Ground 2",
+      "title": "Baseball",
+      "desc": "A bat-and-ball game where two teams of nine players take turns batting and fielding to score runs by hitting the ball and running bases.",
+      "time": "4:00 PM",
+      "date": "2024-10-19",
+      "mainHeading": "Field Events"
+    },
+    {
+      "id": 23,
+      "location": "Ground 5",
+      "title": "Rugby",
+      "desc": "A team sport played with an oval-shaped ball, where teams attempt to score by carrying, passing, or kicking the ball to score tries.",
+      "time": "6:00 PM",
+      "date": "2024-10-20",
+      "mainHeading": "Field Events"
+    },
+    {
+      "id": 24,
+      "location": "Ground 5",
+      "title": "Hockey",
+      "desc": "Team sport with two teams using sticks to hit a ball or puck into the opponent’s goal.",
+      "time": "5:00 PM",
+      "date": "2024-10-18",
+      "mainHeading": "Team Sports"
+    },
+    {
+      "id": 25,
+      "location": "Hall 1",
+      "title": "Table Tennis",
+      "desc": "Individual or team sport played on a table with small paddles and a lightweight ball.",
+      "time": "9:00 AM",
+      "date": "2024-10-18",
+      "mainHeading": "Indoor Sports"
+    },
+    {
+      "id": 26,
+      "location": "Hall 2",
+      "title": "Badminton",
+      "desc": "Individual or team sport played with rackets and a shuttlecock over a net.",
+      "time": "11:00 AM",
+      "date": "2024-10-19",
+      "mainHeading": "Indoor Sports"
+    },
+    {
+      "id": 27,
+      "location": "Hall 3",
+      "title": "Chess",
+      "desc": "Strategic board game played between two individuals.",
+      "time": "1:00 PM",
+      "date": "2024-10-20",
+      "mainHeading": "Indoor Sports"
+    },
+    {
+      "id": 28,
+      "location": "Hall 4",
+      "title": "Carrom",
+      "desc": "Indoor board game where players flick wooden discs into corner pockets.",
+      "time": "3:00 PM",
+      "date": "2024-10-20",
+      "mainHeading": "Indoor Sports"
+    },
+    {
+      "id": 29,
+      "location": "Field 1",
+      "title": "Kabaddi",
+      "desc": "Team sport where players take turns trying to tag opponents while holding their breath.",
+      "time": "10:00 AM",
+      "date": "2024-10-18",
+      "mainHeading": "Other Sports"
+    },
+    {
+      "id": 30,
+      "location": "Field 2",
+      "title": "Kho-Kho",
+      "desc": "Team sport where players try to tag opponents while running around a field.",
+      "time": "12:00 PM",
+      "date": "2024-10-19",
+      "mainHeading": "Other Sports"
+    },
+    {
+      "id": 31,
+      "location": "Climbing Area",
+      "title": "Rock Climbing",
+      "desc": "Sport where participants climb natural rock formations or artificial rock walls.",
+      "time": "9:00 AM",
+      "date": "2024-10-20",
+      "mainHeading": "Adventure Sports"
+    },
+    {
+      "id": 32,
+      "location": "Trail",
+      "title": "Trekking",
+      "desc": "Long-distance, adventurous walking over rough terrain.",
+      "time": "11:00 AM",
+      "date": "2024-10-18",
+      "mainHeading": "Adventure Sports"
+    },
+    {
+      "id": 33,
+      "location": "Rappelling Site",
+      "title": "Rappelling",
+      "desc": "Descending a vertical drop with the aid of a rope.",
+      "time": "1:00 PM",
+      "date": "2024-10-19",
+      "mainHeading": "Adventure Sports"
+    }
+  ]
+}
