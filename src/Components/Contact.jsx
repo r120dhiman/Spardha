@@ -6,7 +6,7 @@ const Contact = () => {
   return (
     <div className='w-full flex flex-col gap-[57px] items-center pt-10 '>
 
-      <div className="intouch m-auto  backdrop-blur-30 flex flex-row tab:gap-10 phone:gap-2  w-fit p-10 rounded-3xl">
+      <div className="intouch m-auto  backdrop-blur-30 flex flex-row tab:gap-10 phone:gap-2  w-fit tab:p-10 phone:p-4 rounded-3xl">
         <div className="imgpart my-auto"> <img src={image} className=' w-60 h-60 phone:hidden tab:block rounded-3xl' alt="" /></div>
         <div className="rightpart flex gap-9 flex-col">
           <h1 className='text-black  font-extrabold tab:text-3xl phone:text-lg'>Get in touch</h1>
