@@ -70,7 +70,7 @@ const Filter = () => {
                     <h1 className='text-[44px] backdrop-blur-30 rounded-3xl font-extrabold p-5 flex-col flex justify-center text-white'> <p>Sorry</p> <p>No event is Sheduled</p></h1>
                 )}
             </div>
-            <div className=' backdrop-blur-30 left-0 text-white w-full m-auto flex justify-center bottom-0'>
+            <div className=' backdrop-blur-30 left-0 text-white w-full m-auto fixed flex justify-center bottom-0'>
       Cpoyright &copy; | All Rights Reserved | Spardha 2024
     </div>
         </div>
