@@ -17,7 +17,7 @@ const Home = () => {
       element: element
     });
   });
-
+console.log(mainhead.length)
 
   return (
     <div >
